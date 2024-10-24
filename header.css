@@ -24,7 +24,7 @@
 }
 
 .lista_menu {
-    display: nome;
+    display: none;
 }
 
 .container_botao:checked ~ .lista_menu {
